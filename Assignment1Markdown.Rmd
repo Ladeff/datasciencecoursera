@@ -5,7 +5,7 @@ date: "7/28/2020"
 output: pdf_document
 ---
 
-## This is a mardown file
+## This is a markdown file
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
